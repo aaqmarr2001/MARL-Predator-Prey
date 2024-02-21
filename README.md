@@ -4,7 +4,7 @@
 
 **Multi-agent Reinforcement Learning**
 
-1\. How you design the predator’ neural network architecture.
+1\. How I designed the predator’ neural network architecture.
 
 I designed a DNN architecture with series of dense layers and dropout layers. The
 
@@ -36,7 +36,7 @@ overcomplication for scenarios where the state can be represented as a
 
 simple vector instead of a 2D spatial grid.
 
-2\. How you select the neural network training parameters.
+2\. How I selected the neural network training parameters.
 
 The selection of neural network training parameters for the predator agents in the
 
@@ -96,7 +96,7 @@ multi-agent learning approaches, each with its strengths in coordinating
 
 multiple agents.
 
-3\. How you design the VDN algorithm.
+3\. How I designed the VDN algorithm.
 
 The design of the Value Decomposition Networks (VDN) algorithm in the project
 
@@ -140,7 +140,7 @@ its own value function.
 
 <a name="br3"></a> 
 
-4\. How you design the prey escape strategy.
+4\. How I designed the prey escape strategy.
 
 The design of the prey escape strategy in the "predators and prey" simulation was
 
@@ -172,7 +172,11 @@ was discernable, the prey resorted to random movement. This added an element
 
 of unpredictability, making it harder for predators to anticipate the prey’s moves.
 
-5\. A screen shot of the results in a successful run of your programs.
+5\. A screen shot of the results in a successful run of my programs.
+![image](https://github.com/aaqmarr2001/MARL-Predator-Prey/assets/91699635/0a997ad1-961c-45c4-9370-30f33421fb57)
 
-6\. Try different configurations of training and report the results.
+
+6\. Tried different configurations of training and reported the results.
+![image](https://github.com/aaqmarr2001/MARL-Predator-Prey/assets/91699635/06f2f44e-8be8-4fdd-9f9c-02bdd7032c31)
+![image](https://github.com/aaqmarr2001/MARL-Predator-Prey/assets/91699635/c2aae8fc-f7f6-4722-b3cb-6a86659ae589)
 
