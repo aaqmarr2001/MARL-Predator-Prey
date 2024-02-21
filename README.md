@@ -177,6 +177,8 @@ of unpredictability, making it harder for predators to anticipate the prey’s m
 
 
 6\. Tried different configurations of training and reported the results.
+
 ![image](https://github.com/aaqmarr2001/MARL-Predator-Prey/assets/91699635/06f2f44e-8be8-4fdd-9f9c-02bdd7032c31)
+
 ![image](https://github.com/aaqmarr2001/MARL-Predator-Prey/assets/91699635/c2aae8fc-f7f6-4722-b3cb-6a86659ae589)
 
